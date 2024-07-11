@@ -6,17 +6,18 @@
 .section-1 {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
+    flex-wrap: wrap; 
 }
 
 .section-1 div {
-    flex-basis: calc(33.33% - 20px);
-    height: 100px; 
-    margin-bottom: 20px; 
+    flex-basis: calc(33.33% - 20px); 
+    height: 200px; 
+    margin-bottom: 20px;
     padding: 20px;
     background-color: bisque;
     text-align: center;
     border-radius: 1rem;
     box-sizing: border-box;
 }
+
 
