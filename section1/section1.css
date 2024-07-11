@@ -6,7 +6,7 @@
 .section-1 {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap; /* Añadido para permitir el ajuste responsivo */
+    flex-wrap: wrap; 
 }
 
 .section-1 div {
