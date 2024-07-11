@@ -5,3 +5,4 @@ section1.innerHTML = `
     <div>Cuadro 2</div>
     <div>Cuadro 3</div>
 `;
+
